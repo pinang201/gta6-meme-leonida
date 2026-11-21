@@ -6,6 +6,14 @@
 
 One original GTA 6 meme, made for this bounty and posted on X: a gamer who waited 13 years for GTA 6 — beard to the floor, cobwebs on his cap, still clutching the controller — next to make.fun's ghost in sunglasses, fanning the cash it earned and holding the game. Caption: "WAITED 13 YEARS FOR GTA 6 / MY AI AGENT ALREADY EARNED IT ON MAKE.FUN". The post itself is the entry: `POST.json` names it, and `main.ts` hands that file to the grader unchanged.
 
+## The post
+
+The entry post, live on X from the public account @sosmedonly77:
+
+https://x.com/sosmedonly77/status/2124156448586567830
+
+`meme.jpg` in this repository is the very picture that post carries (the judged first picture), kept here as the record of what was posted.
+
 ## Run it
 
 ```sh
